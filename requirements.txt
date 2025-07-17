@@ -1,0 +1,6 @@
+vkbottle==4.1.4.post1
+aiogram==3.0.0b7
+python-dotenv==1.0.0
+sqlalchemy==2.0.9
+aiohttp
+aiosqlite
